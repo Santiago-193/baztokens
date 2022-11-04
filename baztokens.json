@@ -85,10 +85,17 @@
       "value": "$root * 9",
       "type": "sizing"
     },
-    "paddingxs": {
-      "value": "$2x",
-      "type": "spacing",
-      "description": "Padding para cajas"
+    "padding": {
+      "2x": {
+        "value": "$2x",
+        "type": "spacing",
+        "description": "Padding para cajas"
+      },
+      "250x": {
+        "value": "$250x",
+        "type": "spacing",
+        "description": "Padding de 2.5 rem = 16 px"
+      }
     },
     "solid": {
       "4": {
@@ -287,6 +294,16 @@
       }
     },
     "gap": {
+      "2x": {
+        "value": "$2x",
+        "type": "spacing",
+        "description": "Utilizar para separar bloques de informacion\n"
+      },
+      "250x": {
+        "value": "$250x",
+        "type": "spacing",
+        "description": "Usar para separar bloques de información"
+      },
       "4x": {
         "value": "$4x",
         "type": "spacing",
