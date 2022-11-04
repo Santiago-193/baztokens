@@ -285,6 +285,13 @@
         "value": "209",
         "type": "color"
       }
+    },
+    "gap": {
+      "4x": {
+        "value": "$4x",
+        "type": "spacing",
+        "description": "Usar para separar elementos pesados"
+      }
     }
   },
   "$themes": [],
