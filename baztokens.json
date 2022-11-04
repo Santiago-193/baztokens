@@ -1,0 +1,296 @@
+{
+  "principal": {
+    "root": {
+      "value": "8",
+      "type": "other",
+      "description": "Valor root para rem"
+    },
+    "025x": {
+      "value": "$root * 0.25",
+      "type": "sizing",
+      "description": "0.25 rem"
+    },
+    "05x": {
+      "value": "$root * 0.5",
+      "type": "sizing",
+      "description": "0.5 rem"
+    },
+    "075x": {
+      "value": "$root * 0.75",
+      "type": "sizing",
+      "description": "0.75 rem"
+    },
+    "1x": {
+      "value": "$root",
+      "type": "sizing",
+      "description": "1 rem"
+    },
+    "125x": {
+      "value": "$root * 1.25",
+      "type": "sizing",
+      "description": "1.25 rem"
+    },
+    "150x": {
+      "value": "$root * 1.5",
+      "type": "sizing",
+      "description": "1.5 rem"
+    },
+    "175x": {
+      "value": "$root * 1.75",
+      "type": "sizing",
+      "description": "1.75 rem"
+    },
+    "2x": {
+      "value": "$root * 2",
+      "type": "sizing",
+      "description": "2 rem"
+    },
+    "225x": {
+      "value": "$root * 2.25",
+      "type": "sizing",
+      "description": "2.25 rem"
+    },
+    "250x": {
+      "value": "$root * 2.5",
+      "type": "sizing",
+      "description": "2.5 rem"
+    },
+    "3x": {
+      "value": "$root * 3",
+      "type": "sizing",
+      "description": "3 rem"
+    },
+    "4x": {
+      "value": "$root * 4",
+      "type": "sizing"
+    },
+    "5x": {
+      "value": "$root * 5",
+      "type": "sizing",
+      "description": "5 rem"
+    },
+    "6x": {
+      "value": "$root * 6",
+      "type": "sizing"
+    },
+    "7x": {
+      "value": "$root * 7",
+      "type": "sizing"
+    },
+    "8x": {
+      "value": "$root * 8",
+      "type": "sizing"
+    },
+    "9x": {
+      "value": "$root * 9",
+      "type": "sizing"
+    },
+    "paddingxs": {
+      "value": "$2x",
+      "type": "spacing",
+      "description": "Padding para cajas"
+    },
+    "solid": {
+      "4": {
+        "value": "#1C2833",
+        "type": "color"
+      }
+    },
+    "main": {
+      "100": {
+        "value": "hsl({main.hue}, 46%, 95%)",
+        "type": "color"
+      },
+      "200": {
+        "value": "hsl({main.hue}, 45%, 90%)",
+        "type": "color"
+      },
+      "300": {
+        "value": "hsl({main.hue}, 52%, 60%)",
+        "type": "color"
+      },
+      "500": {
+        "value": "hsl({main.hue}, 69%, 22%)",
+        "type": "color"
+      },
+      "hue": {
+        "value": "138",
+        "type": "color"
+      },
+      "400-principal": {
+        "value": "hsl({main.hue}, 99%, 34%)",
+        "type": "color"
+      }
+    },
+    "second": {
+      "100": {
+        "value": "hsl({second.hue}, 85%, 95%)",
+        "type": "color"
+      },
+      "200": {
+        "value": "hsl({second.hue}, 88%, 90%)",
+        "type": "color"
+      },
+      "300": {
+        "value": "hsl({second.hue}, 90%, 69%)",
+        "type": "color"
+      },
+      "500": {
+        "value": "hsl({second.hue}, 74%, 43%)",
+        "type": "color"
+      },
+      "hue": {
+        "value": "262",
+        "type": "color"
+      },
+      "400-principal": {
+        "value": "hsl({second.hue}, 96%, 55%)",
+        "type": "color"
+      }
+    },
+    "third": {
+      "100": {
+        "value": "hsl({third.hue}, 71%, 95%)",
+        "type": "color"
+      },
+      "200": {
+        "value": "hsl({third.hue}, 71%, 89%)",
+        "type": "color"
+      },
+      "300": {
+        "value": "hsl({third.hue}, 77%, 71%)",
+        "type": "color"
+      },
+      "500": {
+        "value": "hsl({third.hue}, 64%, 39%)",
+        "type": "color"
+      },
+      "hue": {
+        "value": "325",
+        "type": "color"
+      },
+      "400-principal": {
+        "value": "hsl({third.hue}, 82%, 57%)",
+        "type": "color"
+      }
+    },
+    "fourth": {
+      "100": {
+        "value": "hsl({fourth.hue}, 100%, 96%)",
+        "type": "color"
+      },
+      "200": {
+        "value": "hsl({fourth.hue}, 95%, 92%)",
+        "type": "color"
+      },
+      "300": {
+        "value": "hsl({fourth.hue}, 90%, 73%)",
+        "type": "color"
+      },
+      "500": {
+        "value": "hsl({fourth.hue}, 54%, 38%)",
+        "type": "color"
+      },
+      "hue": {
+        "value": "203",
+        "type": "color"
+      },
+      "400-principal": {
+        "value": "hsl({fourth.hue}, 88%, 42%)",
+        "type": "color"
+      }
+    },
+    "success": {
+      "100": {
+        "value": "hsl({success.hue}, 100%, 95%)",
+        "type": "color"
+      },
+      "200": {
+        "value": "hsl({success.hue}, 59%, 51%)",
+        "type": "color"
+      },
+      "hue": {
+        "value": "103",
+        "type": "color"
+      }
+    },
+    "error": {
+      "100": {
+        "value": "hsl({error.hue}, 86%, 95%)",
+        "type": "color"
+      },
+      "200": {
+        "value": "hsl({error.hue}, 100%, 49%)",
+        "type": "color"
+      },
+      "hue": {
+        "value": "357",
+        "type": "color"
+      }
+    },
+    "information": {
+      "100": {
+        "value": "hsl({information.hue}, 72%, 94%)",
+        "type": "color"
+      },
+      "200": {
+        "value": "hsl({information.hue}, 100%, 54%)",
+        "type": "color"
+      },
+      "hue": {
+        "value": "206",
+        "type": "color"
+      }
+    },
+    "warning": {
+      "100": {
+        "value": "hsl({warning.hue}, 100%, 95%)",
+        "type": "color"
+      },
+      "200": {
+        "value": "hsl({warning.hue}, 100%, 50%)",
+        "type": "color"
+      },
+      "hue": {
+        "value": "37",
+        "type": "color"
+      }
+    },
+    "neutral": {
+      "50": {
+        "value": "hsl($neutral.hue, 0%, 100%)",
+        "type": "color"
+      },
+      "100": {
+        "value": "hsl({neutral.hue}, 0%, 98%)",
+        "type": "color"
+      },
+      "200": {
+        "value": "hsl({neutral.hue}, 3%, 94%)",
+        "type": "color"
+      },
+      "300": {
+        "value": "hsl({neutral.hue}, 0%, 81%)",
+        "type": "color"
+      },
+      "400": {
+        "value": "hsl({neutral.hue}, 12%, 51%)",
+        "type": "color"
+      },
+      "500": {
+        "value": "hsl({neutral.hue}, 29%, 15%)",
+        "type": "color"
+      },
+      "hue": {
+        "value": "209",
+        "type": "color"
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "principal"
+    ]
+  }
+}
