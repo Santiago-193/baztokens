@@ -294,6 +294,11 @@
       }
     },
     "gap": {
+      "025x": {
+        "value": "$025x",
+        "type": "spacing",
+        "description": "Separación de 2px = 0.25rem"
+      },
       "05x": {
         "value": "$05x",
         "type": "spacing",
