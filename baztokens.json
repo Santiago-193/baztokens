@@ -95,6 +95,11 @@
         "value": "$250x",
         "type": "spacing",
         "description": "Padding de 20px = 2.5rem"
+      },
+      "5x": {
+        "value": "$5x",
+        "type": "spacing",
+        "description": "Padding de 40px = 5rem"
       }
     },
     "solid": {
@@ -323,6 +328,26 @@
         "value": "$4x",
         "type": "spacing",
         "description": "Separación de elementos de 32px = 4rem"
+      }
+    },
+    "radius": {
+      "small": {
+        "value": "$root",
+        "type": "borderRadius",
+        "description": "Border radius de 8px = 1rem"
+      }
+    },
+    "sombra": {
+      "100": {
+        "value": {
+          "x": "0",
+          "y": "2",
+          "blur": "3",
+          "spread": "0",
+          "color": "rgba ($neutral.500 , 0.1)",
+          "type": "innerShadow"
+        },
+        "type": "boxShadow"
       }
     }
   },
