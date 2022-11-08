@@ -294,20 +294,30 @@
       }
     },
     "gap": {
+      "05x": {
+        "value": "$05x",
+        "type": "spacing",
+        "description": "Seperación de elementos de 4px = 0.5rem"
+      },
+      "150x": {
+        "value": "$150x",
+        "type": "spacing",
+        "description": "Separación de 12px = 1.5rem"
+      },
       "2x": {
         "value": "$2x",
         "type": "spacing",
-        "description": "Utilizar para separar bloques de informacion\n"
+        "description": "Separación de elementos de 16px = 2rem"
       },
       "250x": {
         "value": "$250x",
         "type": "spacing",
-        "description": "Usar para separar bloques de información"
+        "description": "Separación de elementos de 20px = 2.5rem"
       },
       "4x": {
         "value": "$4x",
         "type": "spacing",
-        "description": "Usar para separar elementos pesados"
+        "description": "Separación de elementos de 32px = 4rem"
       }
     }
   },
