@@ -344,8 +344,8 @@
           "y": "2",
           "blur": "3",
           "spread": "0",
-          "color": "rgba ($neutral.500 , 0.1)",
-          "type": "innerShadow"
+          "color": "rgba($neutral.500 , 0.1)",
+          "type": "dropShadow"
         },
         "type": "boxShadow"
       }
