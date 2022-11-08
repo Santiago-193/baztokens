@@ -96,6 +96,11 @@
         "type": "spacing",
         "description": "Padding de 20px = 2.5rem"
       },
+      "4x": {
+        "value": "$4x",
+        "type": "spacing",
+        "description": "Padding de 32px = 4rem"
+      },
       "5x": {
         "value": "$5x",
         "type": "spacing",
