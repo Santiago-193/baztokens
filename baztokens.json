@@ -89,12 +89,12 @@
       "2x": {
         "value": "$2x",
         "type": "spacing",
-        "description": "Padding para cajas"
+        "description": "Padding de 16px = 2rem"
       },
       "250x": {
         "value": "$250x",
         "type": "spacing",
-        "description": "Padding de 2.5 rem = 16 px"
+        "description": "Padding de 20px = 2.5rem"
       }
     },
     "solid": {
