@@ -101,6 +101,11 @@
         "type": "spacing",
         "description": "Padding de 20px = 2.5rem"
       },
+      "3x": {
+        "value": "$3x",
+        "type": "spacing",
+        "description": "Padding de 24px = 3rem"
+      },
       "4x": {
         "value": "$4x",
         "type": "spacing",
@@ -338,6 +343,11 @@
         "value": "$4x",
         "type": "spacing",
         "description": "Separación de elementos de 32px = 4rem"
+      },
+      "5x": {
+        "value": "$5x",
+        "type": "spacing",
+        "description": "Separación de 40px = 5rem"
       }
     },
     "radius": {
