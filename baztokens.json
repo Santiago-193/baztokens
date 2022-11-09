@@ -324,6 +324,11 @@
         "type": "spacing",
         "description": "Seperación de elementos de 4px = 0.5rem"
       },
+      "1x": {
+        "value": "$1x",
+        "type": "spacing",
+        "description": "Padding de 8px = 1rem"
+      },
       "150x": {
         "value": "$150x",
         "type": "spacing",
