@@ -356,7 +356,7 @@
       }
     },
     "radius": {
-      "small": {
+      "xsmall": {
         "value": "$root",
         "type": "borderRadius",
         "description": "Border radius de 8px = 1rem"
@@ -364,6 +364,11 @@
       "mediano": {
         "value": "$3x",
         "type": "borderRadius"
+      },
+      "small": {
+        "value": "$150x",
+        "type": "borderRadius",
+        "description": "Border radius de 12px = 1.5rem"
       }
     },
     "sombra": {
