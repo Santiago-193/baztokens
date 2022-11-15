@@ -86,6 +86,11 @@
       "type": "sizing"
     },
     "padding": {
+      "05x": {
+        "value": "$05x",
+        "type": "spacing",
+        "description": "Padding de 0.5rem = 4px"
+      },
       "1x": {
         "value": "$1x",
         "type": "spacing",
