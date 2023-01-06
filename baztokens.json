@@ -6,83 +6,83 @@
       "description": "Valor root para rem"
     },
     "025x": {
-      "value": "{base} * 0.25",
+      "value": "$base * 0.25",
       "type": "sizing",
       "description": "0.25 rem"
     },
     "05x": {
-      "value": "{base} * 0.5",
+      "value": "$base * 0.5",
       "type": "sizing",
       "description": "0.5 rem"
     },
     "075x": {
-      "value": "{base} * 0.75",
+      "value": "$base * 0.75",
       "type": "sizing",
       "description": "0.75 rem"
     },
     "1x": {
-      "value": "{base}",
+      "value": "$base",
       "type": "sizing",
       "description": "1 rem"
     },
     "125x": {
-      "value": "{base} * 1.25",
+      "value": "$base * 1.25",
       "type": "sizing",
       "description": "1.25 rem"
     },
     "150x": {
-      "value": "{base} * 1.5",
+      "value": "$base * 1.5",
       "type": "sizing",
       "description": "1.5 rem"
     },
     "175x": {
-      "value": "{base} * 1.75",
+      "value": "$base * 1.75",
       "type": "sizing",
       "description": "1.75 rem"
     },
     "2x": {
-      "value": "{base} * 2",
+      "value": "$base * 2",
       "type": "sizing",
       "description": "2 rem"
     },
     "225x": {
-      "value": "{base} * 2.25",
+      "value": "$base * 2.25",
       "type": "sizing",
       "description": "2.25 rem"
     },
     "250x": {
-      "value": "{base} * 2.5",
+      "value": "$base * 2.5",
       "type": "sizing",
       "description": "2.5 rem"
     },
     "3x": {
-      "value": "{base} * 3",
+      "value": "$base * 3",
       "type": "sizing",
       "description": "3 rem"
     },
     "4x": {
-      "value": "{base} * 4",
+      "value": "$base * 4",
       "type": "sizing"
     },
     "5x": {
-      "value": "{base} * 5",
+      "value": "$base * 5",
       "type": "sizing",
       "description": "5 rem"
     },
     "6x": {
-      "value": "{base} * 6",
+      "value": "$base * 6",
       "type": "sizing"
     },
     "7x": {
-      "value": "{base} * 7",
+      "value": "$base * 7",
       "type": "sizing"
     },
     "8x": {
-      "value": "{base} * 8",
+      "value": "$base * 8",
       "type": "sizing"
     },
     "9x": {
-      "value": "{base} * 9",
+      "value": "$base * 9",
       "type": "sizing"
     },
     "padding": {
@@ -362,7 +362,7 @@
     },
     "radius": {
       "xsmall": {
-        "value": "{base}",
+        "value": "$base",
         "type": "borderRadius",
         "description": "Border radius de 8px = 1rem"
       },
