@@ -142,7 +142,7 @@
         "type": "color"
       },
       "500": {
-        "value": "hsl({main.hue}, 69%, 22%)",
+        "value": "hsl($main.hue, 69%, 22%)",
         "type": "color"
       },
       "hue": {
