@@ -156,19 +156,19 @@
     },
     "second": {
       "100": {
-        "value": "hsl({second.hue}, 85%, 95%)",
+        "value": "hsl($second.hue, 85%, 95%)",
         "type": "color"
       },
       "200": {
-        "value": "hsl({second.hue}, 88%, 90%)",
+        "value": "hsl($second.hue, 88%, 90%)",
         "type": "color"
       },
       "300": {
-        "value": "hsl({second.hue}, 90%, 69%)",
+        "value": "hsl($second.hue, 90%, 69%)",
         "type": "color"
       },
       "500": {
-        "value": "hsl({second.hue}, 74%, 43%)",
+        "value": "hsl($second.hue, 74%, 43%)",
         "type": "color"
       },
       "hue": {
@@ -176,7 +176,7 @@
         "type": "color"
       },
       "400-principal": {
-        "value": "hsl({second.hue}, 96%, 55%)",
+        "value": "hsl($second.hue, 96%, 55%)",
         "type": "color"
       }
     },
