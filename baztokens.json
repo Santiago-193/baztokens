@@ -182,19 +182,19 @@
     },
     "third": {
       "100": {
-        "value": "hsl({third.hue}, 71%, 95%)",
+        "value": "hsl($third.hue, 71%, 95%)",
         "type": "color"
       },
       "200": {
-        "value": "hsl({third.hue}, 71%, 89%)",
+        "value": "hsl($third.hue, 71%, 89%)",
         "type": "color"
       },
       "300": {
-        "value": "hsl({third.hue}, 77%, 71%)",
+        "value": "hsl($third.hue, 77%, 71%)",
         "type": "color"
       },
       "500": {
-        "value": "hsl({third.hue}, 64%, 39%)",
+        "value": "hsl($third.hue, 64%, 39%)",
         "type": "color"
       },
       "hue": {
@@ -202,25 +202,25 @@
         "type": "color"
       },
       "400-principal": {
-        "value": "hsl({third.hue}, 82%, 57%)",
+        "value": "hsl($third.hue, 82%, 57%)",
         "type": "color"
       }
     },
     "fourth": {
       "100": {
-        "value": "hsl({fourth.hue}, 100%, 96%)",
+        "value": "hsl($fourth.hue, 100%, 96%)",
         "type": "color"
       },
       "200": {
-        "value": "hsl({fourth.hue}, 95%, 92%)",
+        "value": "hsl($fourth.hue, 95%, 92%)",
         "type": "color"
       },
       "300": {
-        "value": "hsl({fourth.hue}, 90%, 73%)",
+        "value": "hsl($fourth.hue, 90%, 73%)",
         "type": "color"
       },
       "500": {
-        "value": "hsl({fourth.hue}, 54%, 38%)",
+        "value": "hsl($fourth.hue, 54%, 38%)",
         "type": "color"
       },
       "hue": {
@@ -228,17 +228,17 @@
         "type": "color"
       },
       "400-principal": {
-        "value": "hsl({fourth.hue}, 88%, 42%)",
+        "value": "hsl($fourth.hue, 88%, 42%)",
         "type": "color"
       }
     },
     "success": {
       "100": {
-        "value": "hsl({success.hue}, 100%, 95%)",
+        "value": "hsl($success.hue, 100%, 95%)",
         "type": "color"
       },
       "200": {
-        "value": "hsl({success.hue}, 59%, 51%)",
+        "value": "hsl($success.hue, 59%, 51%)",
         "type": "color"
       },
       "hue": {
@@ -262,11 +262,11 @@
     },
     "information": {
       "100": {
-        "value": "hsl({information.hue}, 72%, 94%)",
+        "value": "hsl($information.hue, 72%, 94%)",
         "type": "color"
       },
       "200": {
-        "value": "hsl({information.hue}, 100%, 54%)",
+        "value": "hsl($information.hue, 100%, 54%)",
         "type": "color"
       },
       "hue": {
@@ -276,11 +276,11 @@
     },
     "warning": {
       "100": {
-        "value": "hsl({warning.hue}, 100%, 95%)",
+        "value": "hsl($warning.hue, 100%, 95%)",
         "type": "color"
       },
       "200": {
-        "value": "hsl({warning.hue}, 100%, 50%)",
+        "value": "hsl($warning.hue, 100%, 50%)",
         "type": "color"
       },
       "hue": {
@@ -294,23 +294,23 @@
         "type": "color"
       },
       "100": {
-        "value": "hsl({neutral.hue}, 0%, 98%)",
+        "value": "hsl($neutral.hue, 0%, 98%)",
         "type": "color"
       },
       "200": {
-        "value": "hsl({neutral.hue}, 3%, 94%)",
+        "value": "hsl($neutral.hue, 3%, 94%)",
         "type": "color"
       },
       "300": {
-        "value": "hsl({neutral.hue}, 0%, 81%)",
+        "value": "hsl($neutral.hue, 0%, 81%)",
         "type": "color"
       },
       "400": {
-        "value": "hsl({neutral.hue}, 12%, 51%)",
+        "value": "hsl($neutral.hue, 12%, 51%)",
         "type": "color"
       },
       "500": {
-        "value": "hsl({neutral.hue}, 29%, 15%)",
+        "value": "hsl($neutral.hue, 29%, 15%)",
         "type": "color"
       },
       "hue": {
