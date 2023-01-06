@@ -248,11 +248,11 @@
     },
     "error": {
       "100": {
-        "value": "hsl({error.hue}, 86%, 95%)",
+        "value": "hsl($error.hue, 86%, 95%)",
         "type": "color"
       },
       "200": {
-        "value": "hsl({error.hue}, 100%, 49%)",
+        "value": "hsl($error.hue, 100%, 49%)",
         "type": "color"
       },
       "hue": {
